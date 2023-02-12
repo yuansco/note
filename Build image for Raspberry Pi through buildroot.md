@@ -1,4 +1,4 @@
-# Build image for Raspberry Pi through buildroot.md
+# Build image for Raspberry Pi through buildroot
 ---
 
 clone buildroot repository 
